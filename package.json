@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "play": "node calc.js",
     "test": "mocha"
   },
   "repository": {
