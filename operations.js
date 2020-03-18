@@ -5,10 +5,10 @@ const divide = (x, y) => +x / +y;
 
 const validateNumbers = (x, y) => {
     if (isNaN(x) || isNaN(y)) {
-        return false
+        return false;
     }
     
-    return true
+    return true;
 };
 
 module.exports = {
